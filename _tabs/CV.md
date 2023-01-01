@@ -1,15 +1,13 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-title: CV
 order: 5
-author: Malumbo
 ---
-**PROFILE**
+# PROFILE
 
 Experienced software engineer with a solid technical background who is passionate about developing event-driven microservices that expedite the efficiency and effectiveness of organizational success. Well-versed in a wide range of technologies. Skilled leader with a track record of motivating, educating, and managing a team of experts to develop software programs and track changes efficiently.
 
-**SKILLS**
+## SKILLS
 
 <style>
 table {
