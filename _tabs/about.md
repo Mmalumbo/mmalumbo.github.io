@@ -11,39 +11,42 @@ Experienced software engineer with a solid five years plus technical background 
 
 ## Skills
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li class="m-0 p-0">Programming languages</li>
-        - &nbsp; JavaScript,   Typescript,   C#,   PHP, <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python, Java, Go
-      </ul>
-    </td>
-    <td>
-      <ul >
-        <li class="m-0 p-0">API development</li>
-        - &nbsp; Loopback,  NestJs,  ASP.NET  Core, <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flask, and Laravel
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li class="m-0 p-0">Test driven development</li>
-      </ul>
-    </td>
-    <td>
-      <ul >
-        <li class="m-0 p-0">Web Technologies</li>
-        - &nbsp; REST(Swagger), Vue, React, Quasar, <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vuex, Redux
-      </ul>
-    </td>
-  </tr>
-</table>
+<div class="row">
+  <div class="col">
+    <ul>
+  <li>Programming languages
+    <ul>
+      <li>JavaScript, Typescript, C#, PHP</li>
+      <li>Python, Java, Go</li>
+    </ul>
+  </li>
+  <li>Test driven development
+    <ul>
+      <li>Unit and Integration tests</li>
+      <li>Manual and functional test</li>
+    </ul>
+  </li>
+  <li>Database Management
+    <ul>
+      <li>SQL: MySQL, PostgreSQL</li>
+      <li>NO-SQL: MongoDB, Couchbase</li>
+    </ul>
+  </li>
+  <li>Strong collaboration skills</li>
+</ul>
 
->
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+  </div>
+  <div class="col">
+    <ul>
+  <li>Item 1</li>
+  <li>Item 2
+    <ul>
+      <li>Subitem 2.1</li>
+      <li>Subitem 2.2</li>
+    </ul>
+  </li>
+  <li>Item 3</li>
+</ul>
+
+  </div>
+</div>
