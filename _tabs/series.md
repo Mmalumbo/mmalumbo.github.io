@@ -1,5 +1,4 @@
 ---
-title: Series
 icon: fas fa-timeline
 order: 3
 ---
